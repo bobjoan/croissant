@@ -1,3 +1,28 @@
 body {
-  background-color: blueviolet;
+  background-color: #dda15e;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.links {
+  text-align: center;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+img {
+  border: 1px solid #dda15e;
+  width: 300px;
 }
