@@ -28,4 +28,5 @@ p {
 img {
   border: 1px solid #dda15e;
   width: 300px;
+  border-radius: 4px;
 }
